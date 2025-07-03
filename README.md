@@ -47,13 +47,13 @@ This project leverages **Power BI Desktop** to visualize and analyze key economi
 ## 📊 Visualizations
 
 ### 📌 Dashboard View
-<img src="images/dashboard_main_view.png" width="100%">
+<img src="1.png" width="100%">
 
 ### 📈 Inflation vs Interest Rate
-<img src="images/linechart_inflation_interest.png" width="100%">
+<img src="2.png" width="100%">
 
 ### 🌍 Heatmap Visualization
-<img src="images/heatmap_inflation.png" width="100%">
+<img src="3.png" width="100%">
 
 ---
 
