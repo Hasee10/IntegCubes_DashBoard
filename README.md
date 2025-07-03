@@ -47,19 +47,19 @@ This isn’t just a static report — it's an **immersive experience** for **eco
 ## 📸 Dashboard Walkthrough
 
 ### 🧠 Full Dashboard Overview
-<img src="./1.png" width="100%" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+<img src="./1.png" width="60%" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
 
 ---
 
 ### 📈 Inflation vs Interest Rate (Time Series Insight)
-<img src="./2.png" width="100%" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+<img src="./2.png" width="60%" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
 
 > 🧩 *Watch how inflation and interest rates dance — see central bank reactions in real time!*
 
 ---
 
 ### 🌍 Global Heatmap of Inflation
-<img src="./3.png" width="100%" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+<img src="./3.png" width="60%" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
 
 > ✨ *Color-coded intensity shows where inflation hits hardest across the globe.*
 
